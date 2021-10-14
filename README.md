@@ -12,7 +12,6 @@
   <img align="center" alt="Onstte-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Onstte-Illustrator" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   <img align="center" alt="Onstte-Angularjs" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-   <img align="center" alt="Onstte-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
   ##
 
