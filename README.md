@@ -5,9 +5,6 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onstte&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="onstte" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/onstte?trk=profile-badge">Eliseu Junior</a></div>
-              
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Onstte-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Onstte-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
