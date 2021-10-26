@@ -22,3 +22,5 @@
   <a href="https://www.linkedin.com/in/onstte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="onstte" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/onstte?trk=profile-badge">Eliseu Junior</a></div>
+              
